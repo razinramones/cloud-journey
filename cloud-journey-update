@@ -5,3 +5,12 @@ Enable static hosting
 added bucket policy
 verified end point
 
+## Cloud Journey Progress - 27 Dec 2025
+- Launched an AWS EC2 Linux instance (Ubuntu 22.04, t3.micro)coz its free tier
+- Connected viaSSH from Local Machine
+- Practiced Linux command : whoami , pwd, ls, uname, sudo
+- Updated and Upgraded the system
+- Installed Nginx webserver and verified it is running
+- replace default nginxpage with custome HTML page
+- Learned file ownership, permissions, and service reloads
+- Viewed webviste livbe at EC2 public IP
