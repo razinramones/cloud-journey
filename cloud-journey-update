@@ -14,3 +14,12 @@ verified end point
 - replace default nginxpage with custome HTML page
 - Learned file ownership, permissions, and service reloads
 - Viewed webviste livbe at EC2 public IP
+
+## 28 Dec 2025
+- Decide to create a project to gain skills in below
+	1. Linux 2. Networking 3. Databases 4. Virtualization 5. Security
+-🧩 PROJECT: Secure Cloud Homelab Web Platform (100% Free Tier)
+- Details : Build a secure Linux-based web app hosted on AWS EC2, 
+	    backed by a database, isolated inside a VPC, with IAM, S3, 
+	    and security hardening — while also using virtualization locally.
+- Read more in the Secure cloud homelab README.MD
